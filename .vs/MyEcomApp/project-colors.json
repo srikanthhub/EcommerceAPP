@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd824a5a-874f-4484-9223-e59a102e5e62": {
+      "ProjectGuid": "fd824a5a-874f-4484-9223-e59a102e5e62",
+      "DisplayName": "ProductCatalog.API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "751a77f4-33e4-4ff1-8aad-f106e30454df": {
+      "ProjectGuid": "751a77f4-33e4-4ff1-8aad-f106e30454df",
+      "DisplayName": "ProductCatalog.BusinessObjects",
+      "ColorIndex": 1
+    },
+    "cd72bd4c-ae72-471e-b45c-84227f9f21e3": {
+      "ProjectGuid": "cd72bd4c-ae72-471e-b45c-84227f9f21e3",
+      "DisplayName": "ProductCatalog.Repositories",
+      "ColorIndex": 2
+    },
+    "3723b28e-a414-40fb-9ec7-fc5682054ce0": {
+      "ProjectGuid": "3723b28e-a414-40fb-9ec7-fc5682054ce0",
+      "DisplayName": "ProductCatalog.EFRepositories",
+      "ColorIndex": 3
+    },
+    "2c3507d5-9255-4003-b90e-e41e5fe4685c": {
+      "ProjectGuid": "2c3507d5-9255-4003-b90e-e41e5fe4685c",
+      "DisplayName": "ProductCatalog.Domain",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,17 @@
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ProductCatalog.BusinessObject.csproj.AssemblyReference.cache
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ProductCatalog.BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ProductCatalog.BusinessObject.AssemblyInfoInputs.cache
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ProductCatalog.BusinessObject.AssemblyInfo.cs
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ProductCatalog.BusinessObject.csproj.CoreCompileInputs.cache
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\bin\Debug\net6.0\ProductCatalog.BusinessObject.deps.json
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\bin\Debug\net6.0\ProductCatalog.BusinessObject.dll
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\bin\Debug\net6.0\ProductCatalog.BusinessObject.pdb
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\bin\Debug\net6.0\ProductCatalog.Domain.dll
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\bin\Debug\net6.0\ProductCatalog.Repositories.dll
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\bin\Debug\net6.0\ProductCatalog.Repositories.pdb
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\bin\Debug\net6.0\ProductCatalog.Domain.pdb
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ProductCatalog.BusinessObject.csproj.CopyComplete
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ProductCatalog.BusinessObject.dll
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\refint\ProductCatalog.BusinessObject.dll
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ProductCatalog.BusinessObject.pdb
+D:\Dev\projects\MyEcomApp\ProductCatalog.BusinessObject\obj\Debug\net6.0\ref\ProductCatalog.BusinessObject.dll

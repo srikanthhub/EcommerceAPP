@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.BusinessObject\\ProductCatalog.BusinessObject.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.BusinessObject\\ProductCatalog.BusinessObject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.BusinessObject\\ProductCatalog.BusinessObject.csproj",
+        "projectName": "ProductCatalog.BusinessObject",
+        "projectPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.BusinessObject\\ProductCatalog.BusinessObject.csproj",
+        "packagesPath": "C:\\Users\\Srikanth\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.BusinessObject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Srikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Repositories\\ProductCatalog.Repositories.csproj": {
+                "projectPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Repositories\\ProductCatalog.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Domain\\ProductCatalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Domain\\ProductCatalog.Domain.csproj",
+        "projectName": "ProductCatalog.Domain",
+        "projectPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Domain\\ProductCatalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\Srikanth\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Srikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Repositories\\ProductCatalog.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Repositories\\ProductCatalog.Repositories.csproj",
+        "projectName": "ProductCatalog.Repositories",
+        "projectPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Repositories\\ProductCatalog.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Srikanth\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Srikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Domain\\ProductCatalog.Domain.csproj": {
+                "projectPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Domain\\ProductCatalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

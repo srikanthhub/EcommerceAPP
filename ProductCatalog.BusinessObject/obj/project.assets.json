@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ProductCatalog.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ProductCatalog.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductCatalog.Domain.dll": {}
+        }
+      },
+      "ProductCatalog.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "ProductCatalog.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ProductCatalog.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProductCatalog.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductCatalog.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ProductCatalog.Domain/ProductCatalog.Domain.csproj",
+      "msbuildProject": "../ProductCatalog.Domain/ProductCatalog.Domain.csproj"
+    },
+    "ProductCatalog.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../ProductCatalog.Repositories/ProductCatalog.Repositories.csproj",
+      "msbuildProject": "../ProductCatalog.Repositories/ProductCatalog.Repositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ProductCatalog.Repositories >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Srikanth\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.BusinessObject\\ProductCatalog.BusinessObject.csproj",
+      "projectName": "ProductCatalog.BusinessObject",
+      "projectPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.BusinessObject\\ProductCatalog.BusinessObject.csproj",
+      "packagesPath": "C:\\Users\\Srikanth\\.nuget\\packages\\",
+      "outputPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.BusinessObject\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Srikanth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Repositories\\ProductCatalog.Repositories.csproj": {
+              "projectPath": "D:\\Dev\\projects\\MyEcomApp\\ProductCatalog.Repositories\\ProductCatalog.Repositories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
