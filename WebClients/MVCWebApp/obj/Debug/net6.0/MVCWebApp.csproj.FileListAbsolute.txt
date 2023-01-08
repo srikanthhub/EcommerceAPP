@@ -239,3 +239,4 @@ D:\Dev\projects\MyEcomApp\WebClients\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib
 D:\Dev\projects\MyEcomApp\WebClients\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Dev\projects\MyEcomApp\WebClients\MVCWebApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Dev\projects\MyEcomApp\WebClients\MVCWebApp\obj\Debug\net6.0\MVCWebApp.csproj.CopyComplete
+D:\Dev\projects\MyEcomApp\WebClients\MVCWebApp\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll

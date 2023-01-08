@@ -22,5 +22,13 @@ namespace MVCWebApp.Services
             return JsonConvert.DeserializeObject<IEnumerable<CatalogItem>>(dataString);
         }
 
+        public async Task<CatalogItem> GetItemDetails(int id)
+        {
+            HttpClient client = new HttpClient();
+            string strjson = await client.GetStringAsync(_remoteServiceBaseUrl + "/api/CatalogItems/" + id);
+            CatalogItem items = JsonConvert.DeserializeObject<CatalogItem>(strjson);
+            return items;
+        }
+
     }
 }
